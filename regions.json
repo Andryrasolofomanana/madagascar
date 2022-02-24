@@ -33681,7 +33681,7 @@
   },
   {
     "id": "7e89f6d8-dc4a-4a85-8819-cdeff9b1a9cc",
-    "name": "Vatovavy Fitovinany",
+    "name": "Vatovavy",
     "district": [
       {
         "id": "b702d2e6-0b40-41d5-9e23-f812bbafc5df",
@@ -38152,7 +38152,13 @@
             ]
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "7e89f6d8-dc4a-4a85-8819-cdeff9b1a9cd",
+    "name": "Fitovinany",
+    "district": [
       {
         "id": "56196c40-174f-4cd7-933d-d9209c24a6f2",
         "name": "Manakara Atsimo",
